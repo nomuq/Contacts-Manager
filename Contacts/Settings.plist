@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>App Management</string>
+		<key>item</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Change Theme</string>
+				<key>icon</key>
+				<string>fa-gear</string>
+				<key>type</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Remove Ads</string>
+				<key>icon</key>
+				<string>fa-shopping-cart</string>
+				<key>type</key>
+				<string>1</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sync</string>
+		<key>item</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Backup</string>
+				<key>icon</key>
+				<string>fa-database</string>
+				<key>type</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Restore</string>
+				<key>icon</key>
+				<string>fa-recycle</string>
+				<key>type</key>
+				<string>3</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Contacts Management</string>
+		<key>item</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Trash</string>
+				<key>icon</key>
+				<string>fa-trash</string>
+				<key>type</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Duplicates</string>
+				<key>icon</key>
+				<string>fa-address-book-o</string>
+				<key>type</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Email Contacts</string>
+				<key>icon</key>
+				<string>fa-envelope</string>
+				<key>type</key>
+				<string>10</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Share Contact</string>
+				<key>icon</key>
+				<string>fa-share-alt</string>
+				<key>type</key>
+				<string>6</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>About</string>
+		<key>item</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>About Us</string>
+				<key>icon</key>
+				<string>fa-heart</string>
+				<key>type</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Privacy Policy</string>
+				<key>icon</key>
+				<string>fa-file</string>
+				<key>type</key>
+				<string>8</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>App Version</string>
+				<key>icon</key>
+				<string>fa-code-fork</string>
+				<key>type</key>
+				<string>9</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
